@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tables</title>
+  </head>
+  <style>
+    table {
+      border-radius: 5px;
+      font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+      background-color: rgb(93, 92, 90);
+      border-color: black;
+      color: white;
+    }
+    table td {
+      border: 2px solid rgb(61, 189, 243);
+    }
+  </style>
+  <body>
+    <table border="1" width="500">
+      <!-- 1 -->
+      <tr align="center">
+        <td colspan="2">2 Column</td>
+        <td colspan="4">4 Column</td>
+      </tr>
+      <!-- 2 -->
+      <tr align="center">
+        <td>Default</td>
+        <td rowspan="2">2 Line</td>
+        <td colspan="3" rowspan="2">3 Column - 2 Line</td>
+        <td rowspan="3">3 Line</td>
+      </tr>
+      <!-- 3 -->
+      <tr align="center">
+        <td>Default</td>
+      </tr>
+      <!-- 4 -->
+      <tr align="center">
+        <td rowspan="3">3 Line</td>
+        <td rowspan="2">2 Line</td>
+        <td colspan="3">3 Column</td>
+      </tr>
+      <!-- 5 -->
+      <tr align="center">
+        <td colspan="3">3 Column</td>
+        <td>Default</td>
+      </tr>
+      <!-- 6 -->
+      <tr align="center">
+        <td>Default</td>
+        <td colspan="3">3 Column</td>
+        <td>Default</td>
+      </tr>
+    </table>
+  </body>
+</html>
