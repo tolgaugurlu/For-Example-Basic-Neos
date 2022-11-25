@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/tolgaugurlu/For-Example-Basic-Neos)
   ![GitHub stars](https://img.shields.io/github/stars/tolgaugurlu/For-Example-Basic-Neos)
   ![GitHub forks](https://img.shields.io/github/forks/tolgaugurlu/For-Example-Basic-Neos?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
   
   <br>
   <h2 align="center">Neos Basic Design</h2>
